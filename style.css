@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+
+:root{
+
+    --cor0: #e7daaf;
+    --cor1: #b99e44;
+    --cor2: #08208d;
+    --cor3: #e272d9;
+    --cor4: #1a5c37;
+    --cor5: #063d1e;
+    --cor6: rgb(25, 53, 212);
+    --cor7: rgb(107, 128, 241);
+    --cor8: rgb(153, 164, 226);
+}
+
+body {
+    background-image: linear-gradient( to bottom,  rgb(243, 224, 192), rgb(235, 196, 129), rgb(241, 180, 74));
+    
+}
+
+    header img.pequena {
+        max-width: 700px;
+        width: 100%;
+        margin: auto;}
+    header {
+    background-image: linear-gradient(to bottom, var(--cor8), var(--cor7), var(--cor6) ); 
+    min-height: 30px;
+    text-align: center;
+    padding-top: 52px;
+    padding-bottom: 25px;
+    border-radius: 15px 15px 0px 0px;
+    }
+
+    nav {
+        background-color: var(--cor6);
+        padding: 10px;
+        box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.363);
+        border-radius: 0px 0px 15px 15px;
+    
+    }
+    
+    nav > a{
+    color: var(--cor0);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: .5s;
+    }
+    
+    nav > a:hover {
+        background-color: var(--cor3);
+        color: var(--cor5);
+        
+    }
+    main h1 {
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif
+    }
+
+    main p{
+        margin: 15px 0px;
+        text-align: center;
+        text-indent: 30px;
+        font-size: 1.5em;
+        line-height: 2em;
+    }
+
+    article h1 {
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif
+    }
+
+    section img{
+        
+
+        max-width: 150px;
+       margin: 15px;
+       
+        
+
+    }
+    section {
+        
+        text-align: center;
+        text-indent: 20px;
+        font-size: 1.5em;
+        line-height: 0.5em;
+    }
+
+    article img{       
+           max-width: 300px;
+           margin: 15px; 
+                 
+         }
+         article {
+            
+            text-align: center;
+            text-indent: 20px;
+            font-size: 1em;
+            
+    }
+    #linktopo {
+        text-decoration: none;
+        color: white;
+        background-color: var(--cor4);
+        padding: 10px;
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+    }
+    
