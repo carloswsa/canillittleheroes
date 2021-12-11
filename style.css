@@ -98,8 +98,19 @@ body {
             
             text-align: center;
             text-indent: 20px;
-            font-size: 1em;
+            font-size: 1em;}
             
+
+        div img{       
+           max-width: 300px;
+           margin: 15px; 
+                 
+         }
+        div {
+            
+            text-align: center;
+            text-indent: 20px;
+            font-size: 1em;
     }
     #linktopo {
         text-decoration: none;
