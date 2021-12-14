@@ -114,9 +114,10 @@ body {
             
 
         div img{       
-           max-width:250px;
+           max-width:300px;
            margin: 15px; 
             border: solid 2px black;
+            box-shadow:3px 3px 3px rgba(0, 0, 0, 0.61);
                  
          }
         div {
