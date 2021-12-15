@@ -80,6 +80,9 @@ a:hover {
         line-height: 2em;
         text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.226);
     }
+    main.video {
+        text-align: center;
+    }
 
     article h1, h2 {
         text-align: center;
