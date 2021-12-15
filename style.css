@@ -80,8 +80,13 @@ a:hover {
         line-height: 2em;
         text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.226);
     }
-    main.video {
-        text-align: center;
+    video {
+         
+        position: relative;
+        height: 80vh;
+        left: 50%;
+        transform: translate(-50%);
+        
     }
 
     article h1, h2 {
