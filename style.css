@@ -12,10 +12,12 @@
     --cor6: rgb(25, 53, 212);
     --cor7: rgb(107, 128, 241);
     --cor8: rgb(153, 164, 226);
+    --cor9: rgb(244, 248, 4);
 }
 
 body {
-    background-image: linear-gradient( to bottom,  rgb(243, 224, 192), rgb(235, 196, 129), rgb(241, 180, 74));
+    background: red url("wallpaper-de-natal-wallpaper\ \(20\).jpeg") center center no-repeat fixed;
+    background-size: cover;
     
 }
     a {
@@ -65,7 +67,7 @@ a:hover {
         
     }
     main h1 {
-        text-align: center;
+        text-align: center; color: var(--cor9);
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
         font-size: 3.5em;
         text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.226);
@@ -73,6 +75,7 @@ a:hover {
 
     main p{
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
+        color: var(--cor9);
         margin: 15px 0px;
         text-align: center;
         text-indent: 30px;
@@ -91,6 +94,7 @@ a:hover {
 
     article h1, h2 {
         text-align: center;
+        color: var(--cor9);
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
         text-indent: 30px;
         font-size: 3em;
@@ -110,6 +114,7 @@ a:hover {
 
     div h1 {
         text-align: center;
+        color: var(--cor9);
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
         font-size: 3.5em;
         text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.226);
