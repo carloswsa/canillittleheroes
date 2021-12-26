@@ -16,12 +16,12 @@
 }
 
 body {
-    background: red url("wallpaper-de-natal-wallpaper\ \(20\).jpeg") center center no-repeat fixed;
+    background: red url("reveilon2.jpg!d") center center no-repeat fixed;
     background-size: cover;
     
 }
     a {
-    color: black;
+    color: var(--cor9);
     text-decoration: none;
     font-weight: bolder;
 }
@@ -53,7 +53,7 @@ a:hover {
     
     nav > a{
     
-    color: var(--cor0);
+    color: var(--cor9);
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
@@ -63,7 +63,7 @@ a:hover {
     
     nav > a:hover {
         background-color: var(--cor3);
-        color: var(--cor5);
+        color: white;
         
     }
     main h1 {
@@ -155,6 +155,7 @@ a:hover {
     }
 
         ul {
+        color: white;    
         text-align: left;
         font-family:Arial, Helvetica, sans-serif;
         font-size: 1.0em;
