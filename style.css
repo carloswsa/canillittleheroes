@@ -21,7 +21,7 @@ body {
     
 }
     a {
-    color: black;
+    color: red;
     text-decoration: none;
     font-weight: bolder;
 }
@@ -53,7 +53,7 @@ a:hover {
     
     nav > a{
     
-    color: black;
+    color: var(--cor9);
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
@@ -63,25 +63,25 @@ a:hover {
     
     nav > a:hover {
         background-color: var(--cor3);
-        color: black;
+        color: red;
         
     }
     main h1 {
-        text-align: center; color: var(--cor9);
+        text-align: center; color: black;
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
         font-size: 3.5em;
-        text-shadow: 3px 3px 3px black; 
+      /*  text-shadow: 3px 3px 3px black; */
     }
 
     main p{
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
-        color: var(--cor9);
+        color: black;
         margin: 15px 0px;
         text-align: center;
         text-indent: 30px;
         font-size: 3em;
         line-height: 2em;
-        text-shadow: 3px 3px 3px black; 
+       /* text-shadow: 3px 3px 3px black; */
     }
     video {
          
@@ -94,12 +94,12 @@ a:hover {
 
     article h1, h2 {
         text-align: center;
-        color: var(--cor9);
+        color: black;
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
         text-indent: 30px;
         font-size: 3em;
         line-height: 2em;
-        text-shadow: 3px 3px 3px black; 
+       /* text-shadow: 3px 3px 3px black; */
     }
 
     section img{
@@ -114,10 +114,10 @@ a:hover {
 
     div h1 {
         text-align: center;
-        color: var(--cor9);
+        color: black;
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
         font-size: 3.5em;
-        text-shadow: 3px 3px 3px black; 
+      /*  text-shadow: 3px 3px 3px black; */
     }
     section {
         
