@@ -16,12 +16,12 @@
 }
 
 body {
-    background: red url("fundo-fotografico.jpg") center center no-repeat fixed;
+    background: rgba(253, 0, 0, 0.568);
     background-size: cover;
     
 }
     a {
-    color: red;
+    color: var(--cor4);
     text-decoration: none;
     font-weight: bolder;
 }
