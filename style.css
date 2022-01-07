@@ -16,7 +16,7 @@
 }
 
 body {
-    background: white;
+    background: var(--cor9);
     background-size: cover;
     
 }
@@ -70,7 +70,7 @@ a:hover {
         text-align: center; color: black;
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
         font-size: 3.5em;
-      /*  text-shadow: 3px 3px 3px black; */
+        text-shadow: 3px 3px 3px rgba(211, 211, 211, 0.523); 
     }
 
     main p{
@@ -81,7 +81,7 @@ a:hover {
         text-indent: 30px;
         font-size: 3em;
         line-height: 2em;
-       /* text-shadow: 3px 3px 3px black; */
+        text-shadow: 3px 3px 3px rgba(211, 211, 211, 0.523); 
     }
     video {
          
@@ -99,7 +99,7 @@ a:hover {
         text-indent: 30px;
         font-size: 3em;
         line-height: 2em;
-       /* text-shadow: 3px 3px 3px black; */
+        text-shadow: 3px 3px 3px rgba(211, 211, 211, 0.523); 
     }
 
     section img{
@@ -117,7 +117,7 @@ a:hover {
         color: black;
         font-family:'Carattere', cursive, Arial, Helvetica, sans-serif;
         font-size: 3.5em;
-      /*  text-shadow: 3px 3px 3px black; */
+        text-shadow: 3px 3px 3px rgba(211, 211, 211, 0.523); 
     }
     section {
         
