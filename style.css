@@ -15,10 +15,13 @@
     --cor9: rgb(244, 248, 4);
 }
 
-body {
+/*body {
     background: var(--cor9);
     background-size: cover;
     
+}*/
+body {
+    background-image: url("imagens\ logo/FUNDO1");
 }
     a {
     color: var(--cor2);
