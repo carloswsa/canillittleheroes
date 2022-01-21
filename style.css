@@ -21,7 +21,7 @@
     
 }*/
 body {
-    background-image: url("FUNDO1.jpg");
+    background-image: url("pattern004.png");
 }
     a {
     color: var(--cor2);
@@ -73,7 +73,7 @@ a:hover {
         text-align: center; color: black;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 3.5em;
-        /*text-shadow: 3px 3px 3px rgba(211, 211, 211, 0.523); */
+       text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.299);
     }
     main h3 {
         font-family: Arial, Helvetica, sans-serif;
@@ -92,7 +92,7 @@ a:hover {
         text-indent: 30px;
         font-size: 3em;
         line-height: 2em;
-       /* text-shadow: 3px 3px 3px rgba(211, 211, 211, 0.523); */
+        text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.299);
     }
     video {
          
@@ -110,7 +110,7 @@ a:hover {
         text-indent: 30px;
         font-size: 3em;
         line-height: 2em;
-        text-shadow: 3px 3px 3px rgba(211, 211, 211, 0.523); 
+        text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.299);
     }
 
     section img{
@@ -128,7 +128,7 @@ a:hover {
         color: black;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 3.5em;
-        text-shadow: 3px 3px 3px rgba(211, 211, 211, 0.523); 
+        text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.299);
     }
     section {
         
