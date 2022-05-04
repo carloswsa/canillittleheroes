@@ -21,7 +21,8 @@
     
 }*/
 body {
-    background-image: url("pattern004.png");
+    background: var(--cor3);
+   
 }
     a {
     color: var(--cor2);
