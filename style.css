@@ -193,6 +193,11 @@ a:hover {
             max-width:150px;
             margin: 15px; 
          }
+
+         div picture: img.pequena {
+            max-width:300px;
+            margin: 15px;
+         }
         div {
             
             text-align: center;
