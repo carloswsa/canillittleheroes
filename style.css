@@ -183,7 +183,7 @@ a:hover {
             
 
         div img{       
-           max-width:250px;
+           max-width:150px;
            margin: 15px; 
            /* border: solid 2px black;
             box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.363);*/
@@ -191,7 +191,7 @@ a:hover {
          }
 
          div picture img {
-            max-width:300px;
+            max: width 150px;x;
             margin: 15px; 
          }
 
